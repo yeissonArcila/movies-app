@@ -1,5 +1,5 @@
 import React from 'react'
-import PeliculaTarjeta from './PeliculaTarjeta/PeliculaTarjeta'
+import PeliculaTarjeta from '../Peliculas-tarjeta/PeliculaTarjeta'
 import './Peliculas.css'
 
 const Peliculas=()=>{
